@@ -2,5 +2,9 @@
 echo "hello world :D !" 
 
 # current date an hour :
-NOW=$( date '+%F_%H:%M:%S' )
-echo "$NOW"
+
+DATE=$( date '+%F_%H:%M:%S' )
+echo "$DATE"
+
+# file path :
+
