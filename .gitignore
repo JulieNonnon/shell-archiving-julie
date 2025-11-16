@@ -1,0 +1,18 @@
+# Dossiers générés automatiquement par le script
+downloads/
+archives/
+temporary*/
+
+# Fichiers temporaires ou systèmes
+*.swp
+*.tmp
+*.log
+
+# macOS metadata
+.DS_Store
+
+# Linux metadata
+.directory
+
+# VSCode settings (si tu utilises VSCode)
+.vscode/
